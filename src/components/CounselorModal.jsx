@@ -111,11 +111,16 @@ export default function CounselorModal({ isOpen, onClose }) {
               <BookOpen className="w-6 h-6" />
             </div>
             <div>
-              <h3 className="font-game text-xl text-white font-bold">
-                위클래스 마음 호텔 상담 기록부
-              </h3>
+              <div className="flex items-center gap-2">
+                <h3 className="font-game text-xl text-white font-bold">
+                  위클래스 마음 호텔 상담 기록부
+                </h3>
+                <span className="text-[10px] font-bold px-2 py-0.5 rounded-full bg-emerald-500/20 text-emerald-400 border border-emerald-500/30 flex items-center gap-1">
+                  ⚡ Supabase DB 연동
+                </span>
+              </div>
               <p className="text-xs text-slate-400">
-                서버에 안전하게 보관된 학생들의 감정 외재화 및 체크아웃 기록입니다.
+                Supabase 클라우드 데이터베이스에 안전하게 보관된 학생들의 감정 외재화 및 체크아웃 기록입니다.
               </p>
             </div>
           </div>

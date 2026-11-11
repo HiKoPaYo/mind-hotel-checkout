@@ -1,5 +1,59 @@
 [
   {
+    "id": "rec_1794384288930_pr4s0",
+    "grade": "2",
+    "classNum": "3반",
+    "studentName": "이서준",
+    "category": "시험 불안",
+    "monsterName": "시험 괴물",
+    "monsterConfig": {
+      "shape": "cloud",
+      "color": "purple",
+      "eyes": "glare",
+      "mouth": "zigzag"
+    },
+    "gamesPlayed": [
+      "야구 홈런 게임",
+      "축구 골인 게임"
+    ],
+    "finalEmotion": "조금 가벼워졌어요.",
+    "answers": {
+      "q1": "너 또 왔구나? 그래도 넌 날 흔들 수 없어!",
+      "q2": "푹신한 낮잠과 딸기 우유",
+      "q3": "서준아, 넌 이미 충분히 잘하고 있어."
+    },
+    "stressBefore": 8,
+    "stressAfter": 2,
+    "createdAt": "2026-11-11T08:04:48.930Z"
+  },
+  {
+    "id": "rec_1794384255485_qfe6u",
+    "grade": "2",
+    "classNum": "3?",
+    "studentName": "????",
+    "category": "?? ????",
+    "monsterName": "?? ???",
+    "monsterConfig": {
+      "color": "red",
+      "eyes": "glare",
+      "shape": "horn",
+      "mouth": "teeth"
+    },
+    "gamesPlayed": [
+      "?? ?? ??",
+      "??? ??"
+    ],
+    "finalEmotion": "??????.",
+    "answers": {
+      "q1": "?? ??? ? ??? ???? ?? ???",
+      "q3": "???? ??? ?? ? ???, ???!",
+      "q2": "??? ???? ??"
+    },
+    "stressBefore": 9,
+    "stressAfter": 2,
+    "createdAt": "2026-11-11T08:04:15.485Z"
+  },
+  {
     "id": "rec_1794384002815_2vdln",
     "grade": "2",
     "classNum": "3?",
